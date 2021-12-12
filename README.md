@@ -33,6 +33,8 @@ pip install djangorestframework
 ```
 heroku login
 ```
+#Para mas información
+Por favor visitar: https://github.com/raparram/C4P65G2_DW_4a-docs
 
 se inicia sesion en la web de heroku
 
@@ -59,3 +61,6 @@ heroku open -a app_name
 # Para verificar Endpoints
 
 Para conocer y verificar los endpoints lo invitamos al siguiente link: https://github.com/raparram/C4P65G2_DW_4a-docs/blob/main/Microservicios%20API%20tests/API_AUTH_P65C4G2_HEROKU.postman_collection.json ,donde se muestra un JSON con los endpoints listos para correr desde Postman.
+
+# Para mas información
+Por favor visitar: https://github.com/raparram/C4P65G2_DW_4a-docs
